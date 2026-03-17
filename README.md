@@ -39,9 +39,9 @@ Identify patterns (e.g., more passengers in 3rd class, survival differences by g
 
 ### Program
 
-#### Name : P PARTHIBAN
+#### Name : Jaisree B 
 
-#### Reg No.: 212223230145
+#### Reg No.: 212224230100
 
 ##### Data Understanding
 ```python
